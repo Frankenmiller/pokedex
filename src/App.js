@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hello, World! I'm dr_FRANKENMILLER <br></br>
-          I am Junior Software Developer from California
+          I am jr Software Developer from California
         </p>
         <a
           className="App-link"
